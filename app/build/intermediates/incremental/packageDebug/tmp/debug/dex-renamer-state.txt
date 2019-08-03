@@ -1,0 +1,4 @@
+#Sat Aug 03 21:29:00 CEST 2019
+base.0=/home/tech_bxs_ae_rec/git/recycler-view/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
